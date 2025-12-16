@@ -1,0 +1,12 @@
+[project]
+name = "python-fluente-exs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "jupyterlab>=4.5.1",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+]
